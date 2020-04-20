@@ -1,4 +1,5 @@
 #include QMK_KEYBOARD_H
+#include "keymap_jp.h"
 
 
 #ifdef RGBLIGHT_ENABLE
